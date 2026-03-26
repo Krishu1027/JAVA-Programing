@@ -7,7 +7,6 @@ class ObjectCounter {
         return count;
     }
 }
-
 public class CountObjects {
     public static void main(String[] args) {
         ObjectCounter obj1 = new ObjectCounter();
